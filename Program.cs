@@ -7,7 +7,7 @@ namespace hello
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
-            Console.WriteLine("welcome to.");
+            Console.WriteLine("welcome to Tanaka.");
             Console.WriteLine("end.");
         }
     }
